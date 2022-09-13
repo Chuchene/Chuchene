@@ -1,6 +1,6 @@
 - 👋 Oi eu sou o 👽 @Chuchene :trollface:
 - :atom: Estou interesado em programar e criar diversos programas
-- 🌱 Eu estou desenvolvendo o meu conhecimento sobre diversos programações
+- :electron: Eu estou desenvolvendo o meu conhecimento sobre diversos programações
 - :shipit: Estou colaborando com o @brunotillmann
 - 📫 Meu email kurtes.henrique@gmail.com
 
